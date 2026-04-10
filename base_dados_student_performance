@@ -1,4 +1,0 @@
-
-git add "C:\Users\rafas\Downloads\student+performance.zip"
-git commit -m "Adiciona base de dados compactada"
-git push origin main # ou 'master', dependendo do nome da sua branch principal
